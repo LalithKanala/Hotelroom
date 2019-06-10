@@ -1,0 +1,29 @@
+.btn{
+    margin: 5%;
+    padding:5px;
+    background-color: lightslategray;
+    font-size: 20px
+} 
+ li{
+    list-style: none;
+    float: left;   
+    margin: 5px; 
+}
+.outerContainer, .innerContainer, .Container{
+    margin-left: 4%;
+    margin-top: 20%;
+}
+.rooms{
+    border: 2px solid #eae1e1;
+    background-color: #a4b8c4;
+}
+p{
+    text-align: center;
+}
+.firstbox{
+    padding-top: 2.5%;
+}
+.subbutton{
+    margin: 7%;
+    border: 2px solid black;
+}

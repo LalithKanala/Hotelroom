@@ -1,3 +1,19 @@
+﻿Created Component for Adult and Child dropdown select option menu and wrapped it
+with Roomcomp component. 
+Rooms can be increased by increasing this.numberOfRooms in Roomcomp's constructor and maintained
+state according to this.numberOfRooms value.
+Used Object map method to iterate over number of rooms and created number of rooms using
+<li> and removed checkbox for room1 by checking key of room1(i.e if(key===0) and added checkboxes for
+remaining in Roomcomp component 
+Created state in both the components to store the data like number of people, Rooms booked or not.
+As per the requirement we can access the data and the values are prepopulated after submit 
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
